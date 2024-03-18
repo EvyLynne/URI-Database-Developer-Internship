@@ -2,6 +2,7 @@
 Custom application for URI Pharmacy Outreach Group
 This project was created in response to the URI Pharmacy Outreach Group's need for an application to record and analyze patient outreach in the local community.  The Pharmacy department goes on site to local Adult Daycare Centers to provide services to low income individuals to aid their healthcare.
 I performed requirement elicitations and created a front end in VBA in Excel. 
+There is sample data in the Excel workbook associated with the application.  The database was not developed at the time.
 # Insructions for usage:
 Necesary files / folders:
 | Object | Description |
