@@ -6,8 +6,8 @@ I performed requirement elicitations and created a front end in VBA in Excel.
 Necesary files / folders:
 | Object | Description |
 |--------|-------------|
-| Pharm-Outreach-FrontEnd.xlsm | executable file |
-| "Drop Down List Files" | folder with .csv files to populate drop-down lists |
+| Pharm-Outreach-FrontEnd (2).xlsm | executable file |
+| "Drop Down Lists Files" | folder with .csv files to populate drop-down lists |
 
 # Run the Excel solution:
 Download the .xlsm and the folder with the related .csv files <br>
