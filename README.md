@@ -18,4 +18,6 @@ Open the frmWelcome object - it is the entry point to the program <br>
 Click Run in the top ribbon <br>
 When the application opens, it needs the path for the drop down files,  <br>
 copy and paste the path for "Drop Down List Files" into the dialog box <br>
-You will be taken to the welcome pate
+You will be taken to the welcome dialog box to start your session
+# Note
+Application colors were for URI
