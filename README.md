@@ -10,12 +10,12 @@ Necesary files / folders:
 | "Drop Down List Files" | folder with .csv files to populate drop-down lists |
 
 # Run the Excel solution:
-Download the .xlsm and the folder with the related .csv files
-Open the .xlsm
-Click the Developer Tab
-Click Visual Basic
-Open the frmWelcome object - it is the entry point to the program
-Click Run in the top ribbon
-When the application opens, it needs the path for the drop down files, 
-copy and paste the path for "Drop Down List Files" into the dialog box 
+Download the .xlsm and the folder with the related .csv files <br>
+Open the .xlsm <br>
+Click the Developer Tab <br>
+Click Visual Basic <br>
+Open the frmWelcome object - it is the entry point to the program <br>
+Click Run in the top ribbon <br>
+When the application opens, it needs the path for the drop down files,  <br>
+copy and paste the path for "Drop Down List Files" into the dialog box <br>
 You will be taken to the welcome pate
