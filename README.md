@@ -24,3 +24,5 @@ You will be taken to the welcome dialog box to start your session
 I wrote a custom class to import .csv files <br>
 I was working on a custom class to I/O to a MySql database for patient records <br>
 Application colors were for URI
+# Known Bugs
+The "save to database" dialogs don't perform any actions - project not completed
